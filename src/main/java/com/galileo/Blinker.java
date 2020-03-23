@@ -5,7 +5,7 @@ import mraa.Gpio;
 
 public class Blinker {
     public static void main(String[] args) throws Exception {
-        Gpio gpio = new Gpio(3, true, true);
+        Gpio gpio = new Gpio(3, false, true);
         gpio.dir(Dir.DIR_OUT);
         for (int i = 0; i < 20; i++) {
             gpio.write(1);
