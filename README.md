@@ -10,3 +10,5 @@ Repository for storing initial information about not supported board Intel Galil
 <a href="http://www.malinov.com/Home/sergey-s-blog/intelgalileo-programminggpiofromlinux">Programming GPIO From Linux</a>
 
 <a href="https://github.com/eclipse/mraa">Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java</a>
+
+<a href="https://github.com/eclipse/mraa/issues/131">Why my blink example does not work?</a>
